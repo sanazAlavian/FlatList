@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sanaz/Desktop/Dorreh/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/sanaz/.gradle/caches/transforms-2/files-2.1/4cf02ddb9e1597eb1d2f68a21db3b9a4/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    }
+                }
+            ]
+        }
+    ]
+}

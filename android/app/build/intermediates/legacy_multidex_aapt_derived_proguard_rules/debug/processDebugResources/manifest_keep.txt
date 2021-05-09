@@ -1,0 +1,4 @@
+# Referenced at /Users/sanaz/Desktop/Dorreh/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:26
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/sanaz/Desktop/Dorreh/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:26
+-keep class ir.media.test1.MainApplication { <init>(); }
